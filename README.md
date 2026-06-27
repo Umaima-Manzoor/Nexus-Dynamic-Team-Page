@@ -96,7 +96,7 @@ A fully responsive, dynamic team page that fetches team member data from a JSON 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Umaima-Manzoor/TeamFlow.git
+   git clone https://github.com/Umaima-Manzoor/Nexus-Dynamic-Team-Page.git
    cd TeamFlow
    ```
 2. Open the project
